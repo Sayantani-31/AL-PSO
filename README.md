@@ -24,7 +24,7 @@ CNN Models: Multiple pre-trained CNN architectures were evaluated on the HAM1000
     The Least Confidence AL strategy outperformed other methods.
 
 ### 📊 Dataset
-
+    
     HAM10000 Dataset: A large collection of multi-source dermatoscopic images of common pigmented skin lesions.
 
 ### ⚙️ Methodology
@@ -67,4 +67,4 @@ CNN Models: Multiple pre-trained CNN architectures were evaluated on the HAM1000
 
 
 
-*⚡ AI meets healthcare: faster, smarter, and more efficient cancer detection. *
+_⚡ AI meets healthcare: faster, smarter, and more efficient cancer detection._
